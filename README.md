@@ -1,5 +1,5 @@
 ---
-title: Git Workflow for Mixing Public and Private Repository
+Git Workflow for Mixing Public and Private Repository
 ---
 
 ![Local and remote public and private repositories and their
